@@ -9,7 +9,7 @@ int main(){
   double area;
   int quotient;
   double replacementArea;
-  
+  // Github
   cout << "What is the original?\n";
   cin >> original;
   cout << "What is the replacement?\n";
